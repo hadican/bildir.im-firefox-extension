@@ -10,9 +10,9 @@ var button = ActionButton({
 		id : "bildirim-link",
 		label : "Bildir.im",
 		icon : {
-			"16" : "../data/icon-16.png",
-			"32" : "../data/icon-32.png",
-			"64" : "../data/icon-64.png"
+			"16" : "./../data/icon-16.png",
+			"32" : "./../data/icon-32.png",
+			"64" : "./../data/icon-64.png"
 		},
 		onClick : function () {
 			sendNotification(tabs.activeTab.url);
