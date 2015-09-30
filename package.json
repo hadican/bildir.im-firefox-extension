@@ -1,0 +1,13 @@
+{
+  "title": "Bildir.im",
+  "name": "Bildir.im",
+  "version": "0.0.1",
+  "description": "Bildir.im Firefox Extension",
+  "main": "scripts/bildirim.js",
+  "author": "hadican",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "MIT"
+}
